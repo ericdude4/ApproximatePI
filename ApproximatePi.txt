@@ -1,0 +1,34 @@
+Approximate Pi!
+
+Number of Shots: 1000   Approximate Pi: 3.2
+Number of Shots: 2000   Approximate Pi: 3.162
+Number of Shots: 3000   Approximate Pi: 3.14267
+Number of Shots: 4000   Approximate Pi: 3.151
+Number of Shots: 5000   Approximate Pi: 3.148
+Number of Shots: 6000   Approximate Pi: 3.12267
+Number of Shots: 7000   Approximate Pi: 3.124
+Number of Shots: 8000   Approximate Pi: 3.126
+Number of Shots: 9000   Approximate Pi: 3.12356
+Number of Shots: 10000   Approximate Pi: 3.1236
+Number of Shots: 11000   Approximate Pi: 3.12
+Number of Shots: 12000   Approximate Pi: 3.12367
+Number of Shots: 13000   Approximate Pi: 3.12246
+Number of Shots: 14000   Approximate Pi: 3.12914
+Number of Shots: 15000   Approximate Pi: 3.13307
+Number of Shots: 16000   Approximate Pi: 3.131
+Number of Shots: 17000   Approximate Pi: 3.13459
+Number of Shots: 18000   Approximate Pi: 3.132
+Number of Shots: 19000   Approximate Pi: 3.12926
+Number of Shots: 20000   Approximate Pi: 3.126
+Number of Shots: 21000   Approximate Pi: 3.12686
+Number of Shots: 22000   Approximate Pi: 3.12982
+Number of Shots: 23000   Approximate Pi: 3.12922
+Number of Shots: 24000   Approximate Pi: 3.1305
+Number of Shots: 25000   Approximate Pi: 3.13024
+Number of Shots: 26000   Approximate Pi: 3.13185
+Number of Shots: 27000   Approximate Pi: 3.13348
+Number of Shots: 28000   Approximate Pi: 3.13457
+Number of Shots: 29000   Approximate Pi: 3.13062
+Number of Shots: 30000   Approximate Pi: 3.1312
+Number of Shots: 31000   Approximate Pi: 3.1329
+Number of Shots: 32000   Approximate Pi: 3.13475
